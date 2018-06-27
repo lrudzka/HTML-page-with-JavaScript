@@ -1,7 +1,7 @@
 # HTML-page-with-JavaScript
 dynamic HTML page using JavaScript
 
-The page was created as a project during my programming bootcamp at CodersLab.
+The page was created as a project during the coding bootcamp at CodersLab.
 
 Used technologies: html, css, JavaScript
 
